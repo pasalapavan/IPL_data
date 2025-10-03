@@ -1,7 +1,7 @@
 # 🏏 IPL Analysis Dashboard
 
-** This repository contains a Power BI dashboard analyzing data from the Indian Premier League (IPL). **
-** The dashboard provides insights into team performance, player statistics, match outcomes, and trends across multiple seasons. **
+#### This repository contains a Power BI dashboard analyzing data from the Indian Premier League (IPL). 
+#### The dashboard provides insights into team performance, player statistics, match outcomes, and trends across multiple seasons. 
 Dataset :- https://drive.google.com/drive/folders/1OS0t10CvR_SgLB-DpqoLHCOr66dIIxO7?usp=drive_link
 
 ## 📊 Features
